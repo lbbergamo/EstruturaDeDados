@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estrutura de Dados - ArvoreBinaria/1.0.0": {
+        "runtime": {
+          "Estrutura de Dados - ArvoreBinaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura de Dados - ArvoreBinaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
